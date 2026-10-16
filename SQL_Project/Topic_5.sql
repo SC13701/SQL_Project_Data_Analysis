@@ -1,5 +1,5 @@
 /*
-
+List of the most optimal skills needed for remote Data Analysts and Business Analysts jobs, based on the average yearly salary.
 */
 
 -- Writing the code implementing CTEs

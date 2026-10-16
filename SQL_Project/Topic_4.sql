@@ -1,5 +1,5 @@
 /*
-
+List of skills that are associated with the highest average salaries for Data Analysts and Business Analysts who work from home.
 */
 
 SELECT
